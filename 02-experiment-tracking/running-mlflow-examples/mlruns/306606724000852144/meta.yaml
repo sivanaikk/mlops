@@ -1,0 +1,6 @@
+artifact_location: file:///home/siva-naik/mlops/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/306606724000852144
+creation_time: 1717698985054
+experiment_id: '306606724000852144'
+last_update_time: 1717698985054
+lifecycle_stage: active
+name: my-experiment-1
